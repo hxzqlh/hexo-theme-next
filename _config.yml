@@ -229,13 +229,13 @@ post_wordcount:
 
 # Wechat Subscriber
 wechat_subscriber:
-  enabled: false
-  qcode: /images/qrcode_for_hxzqlh.jpg
+  enabled: true
+  qcode: /images/qrcode-hxzqlh.jpg
   #description: 欢迎订阅微信公众号
 
 # Reward
 #reward_comment: 写的不错，赞赏下
-wechatpay: /images/wechatpay_hxzqlh.jpg
+#wechatpay: /images/wechatpay-hxzqlh.jpg
 #alipay: /images/alipay.jpg
 #bitcoin: /images/bitcoin.png
 
