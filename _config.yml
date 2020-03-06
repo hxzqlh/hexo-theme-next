@@ -27,7 +27,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "hxzqlh, 黄学忠"
+keywords: "hxzqlh,hxz,黄学忠,彦祖老师"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -230,12 +230,12 @@ post_wordcount:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-  qcode: /images/qrcode-hxzqlh.jpg
+  qcode: /images/qrcode.jpg
   #description: 欢迎订阅微信公众号
 
 # Reward
 #reward_comment: 写的不错，赞赏下
-#wechatpay: /images/wechatpay-hxzqlh.jpg
+#wechatpay: /images/wechatpay.jpg
 #alipay: /images/alipay.jpg
 #bitcoin: /images/bitcoin.png
 
