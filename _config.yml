@@ -56,6 +56,7 @@ footer:
   # -------------------------------------------------------------
   # Any custom text can be defined here.
   #custom_text: Hosted by <a target="_blank" href="https://pages.github.com">GitHub Pages</a>
+  custom_text: <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备20005040号-1</a>
 
 # ---------------------------------------------------------------
 # SEO Settings
